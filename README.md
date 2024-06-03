@@ -83,4 +83,4 @@ To learn more about React Native, take a look at the following resources:
 
 O Aplicativo Button tem um botão de função random que irá exibir uma frase DESmotivacional cada vez que for clicado:
 
-- [App Button]()
+- [App Button](https://www.youtube.com/watch?v=H668cAvMBn4)
